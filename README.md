@@ -1,6 +1,8 @@
 # Donkey Kong - Ash Version
 
-My own take on the classic Donkey Kong arcade game, built in Unity 6. Made this to get hands-on with 2D physics, sprite animation, and scene management. Nothing fancy, just a faithful recreation I could call mine.
+A clone of the original **Donkey Kong** arcade game (Nintendo, 1981), built in Unity 6. This isn't an original game — it's a recreation of the real thing, made for learning purposes. All characters and gameplay are based on the original.
+
+Made this to get hands-on with 2D physics, sprite animation, and scene management in Unity. Nothing fancy, just trying to replicate what the original did.
 
 ![Level 1](Screenshot/Screenshot_1.png)
 
