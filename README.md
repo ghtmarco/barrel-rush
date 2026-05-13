@@ -1,4 +1,4 @@
-# Donkey Kong - Ash Version
+# Barrel Rush
 
 A clone of the original **Donkey Kong** arcade game (Nintendo, 1981), built in Unity 6. This isn't an original game — it's a recreation of the real thing, made for learning purposes. All characters and gameplay are based on the original.
 
